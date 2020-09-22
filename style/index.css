@@ -293,6 +293,11 @@ footer a {
     width: 100%;
   }
 
+  .section1 .section1-div2 button {
+    width: 30%;
+    display: block;
+  }
+
   .section2 div {
     width: 45%;
   }
@@ -302,7 +307,7 @@ footer a {
   }
 
   .section2 div img {
-    height: 30vh;
+    height: 25vh;
   }
 }
 
